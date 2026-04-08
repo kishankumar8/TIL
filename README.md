@@ -79,6 +79,4 @@ Check out my projects and feel free to connect!
 GitHub: -> https://github.com/kishankumar8
 
 
-linkedin: -> https://www.linkedin.com/in/kishan-kumar-2b7240324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
 

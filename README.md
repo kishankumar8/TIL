@@ -50,17 +50,10 @@ Running
 
 
 
----
 
-👨‍🏫 Mentors Who Inspire Me
 
-Krish Naik
 
-Code With Harry
 
-Chai and Code
-
-Shradha Ma’am
 
 
 

@@ -1,4 +1,3 @@
-
 👋 Hi, I'm Kishan Kumar!
 
 🎓 I’m currently pursuing a Bachelor of Technology (B.Tech.) with a specialization in Artificial Intelligence and Data Science.

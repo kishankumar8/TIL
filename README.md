@@ -44,8 +44,4 @@ Playing guitar
 Playing cricket
 
 Swimming
----
-
-
-
 

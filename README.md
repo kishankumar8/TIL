@@ -41,7 +41,4 @@ definately doing  more  moderate and advanced projects
 
 Playing guitar
 
-Playing cricket
-
-
 

@@ -37,5 +37,4 @@ definately doing  more  moderate and advanced projects
 
 ---
 
-🎸 Hobbies & Interests
-
+🎸

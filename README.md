@@ -10,7 +10,8 @@
 
 Programming Languages: C, C++, Python.
 
-Web Technologies: HTML, CSS, JavaScript
+Web Technologies: HTML, CSS, 
+
 
 Other Skills: Git & GitHub, Data Structures & 
 ---

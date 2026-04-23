@@ -35,5 +35,3 @@ Concepts used: functions, random module, conditional logic.
 ---
 definately doing  more  moderate and advanced 
 
----
-

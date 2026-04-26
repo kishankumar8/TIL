@@ -25,5 +25,5 @@ Concepts used: functions, random module, conditional logic.
 
 📌 I am doing basic projects to enhance my learning and strengthen my programming fundamentals.
 ---
-definately doing  more  moderate ande
+definately doing  more  moderate
 

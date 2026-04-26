@@ -11,8 +11,7 @@ machine leaning(ML) and deep learning(DL)
 
 ---
 
-🚀 My Projects (Beginner Level)
-
+🚀 My Projects (Beginner Level
 🔢 Number Guessing Game (Python)
 
 A simple Python game where the computer selects a random number, and the player 

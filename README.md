@@ -10,7 +10,7 @@ Other Skills: Git & GitHub, Data Structures
 machine leaning(ML) and deep learning(DL) 
 
 🚀 My Projects (Beginner Level
-🔢 Number Guessing Game (Python)
+🔢 Number Guessing Gamen)
 
 A simple Python game where the computer selects a random number, and the player 
 Concepts used: loops, conditionals, random module, user input

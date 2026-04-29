@@ -7,8 +7,7 @@
 Programming Languages: C,
 Web Technologies: HTML, CSS, 
 Other Skills: Git & GitHub, Data 
-machine leaning(ML) and 
-
+machine leaning(ML) 
 🚀 My Projects (Beginner Level
 🔢 Number Guessing 
 A simple Python game where the computer selects a random number, and the player 
